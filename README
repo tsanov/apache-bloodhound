@@ -1,0 +1,15 @@
+NOTICE
+==============================
+
+This is an independant fork of the trac based code base of the Apache Bloodhound project that was moved to the Apache Attic (https://attic.apache.org/projects/bloodhound.html) in 2024-07.
+
+Apache Bloodhound
+==============================
+
+Further information:
+
+ installer/README.rst - Description of the installation process
+ https://issues.apache.org/bloodhound/ - The Apache Bloodhound wiki pages
+
+ The current version of Trac that Apache Bloodhound is specified in trac/trac/TRAC_VERSION
+
